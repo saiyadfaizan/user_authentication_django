@@ -34,6 +34,17 @@ It is a basic applicaion in which following operations can be performed:
 │   ├── base.html
 │   ├── home.html
 │   └── registration
+│       ├── change_password.html
+│       ├── login.html
+│       ├── password_reset_complete.html
+│       ├── password_reset_confirm.html
+│       ├── password_reset_done.html
+│       ├── password_reset_form.html
+│       ├── signup.html
+│       └── update_user.html
+│   ├── base.html
+│   ├── home.html
+│   └── registration
 └── user_auth_project
     ├── __init__.py
     ├── __pycache__
